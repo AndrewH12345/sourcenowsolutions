@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grow Through Local Partnerships</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #2a2a2a;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0 0 1rem;
+    }
+    header p {
+      margin: 0 0 2rem;
+      font-size: 1.2rem;
+    }
+    .cta-button {
+      background: #00a86b;
+      color: #fff;
+      padding: 0.8rem 1.5rem;
+      text-decoration: none;
+      font-size: 1rem;
+      border-radius: 5px;
+    }
+    .section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .section h2 {
+      margin-bottom: 1rem;
+    }
+    .process-step {
+      margin-bottom: 1.5rem;
+    }
+    form {
+      margin-top: 1.5rem;
+    }
+    input[type="email"] {
+      padding: 0.5rem;
+      font-size: 1rem;
+      width: 70%;
+      margin-right: 1rem;
+    }
+    input[type="submit"] {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      background: #00a86b;
+      color: white;
+      border: none;
+      border-radius: 4px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #eee;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Grow Through Local Partnerships—Not Paid Ads</h1>
+    <p>We help small businesses build powerful referral partnerships that generate new leads—without spending a dime on marketing.</p>
+    <a class="cta-button" href="#signup">Get 2 Free Referral Intros →</a>
+  </header>
+
+  <div class="section">
+    <h2>More word-of-mouth. More customers. Less stress.</h2>
+    <p>If you’re a local service-based business looking for more consistent leads, we’ll match you with trusted, non-competing businesses in your area—and even set up the partnerships for you.</p>
+
+    <h2 id="signup">Get Your Free Referral Plan</h2>
+    <form action="#" method="post">
+      <input type="email" placeholder="Your Email" required>
+      <input type="submit" value="Get My Free Partner Plan">
+    </form>
+
+    <h2>How It Works</h2>
+    <div class="process-step">
+      <strong>1. We Learn About Your Business</strong><br>
+      A short call to understand your ideal client and nearby partners.
+    </div>
+    <div class="process-step">
+      <strong>2. We Handpick 2-3 Referral Matches</strong><br>
+      We look for trusted local businesses that already serve your ideal client—but don’t compete.
+    </div>
+    <div class="process-step">
+      <strong>3. We Handle the Introductions</strong><br>
+      We craft the message and send the warm intros. You build the relationship and grow together.
+    </div>
+
+    <h2>What You Get</h2>
+    <ul>
+      <li>✅ 2-3 local referral partners, personally matched</li>
+      <li>✅ Warm email intros, fully written for you</li>
+      <li>✅ No contracts, no sales pressure—just results</li>
+    </ul>
+
+    <blockquote>
+      “Within 2 weeks of getting introduced to a local chiropractor, we had 3 new clients from referrals alone. It’s been a total game-changer.”<br>
+      — Small Business Owner
+    </blockquote>
+  </div>
+
+  <footer>
+    Have questions? Reach out to Andrew at <a href="mailto:andrew@sourcenowsolutions.ca">andrew@sourcenowsolutions.ca</a><br>
+    Proudly based in Shelburne and helping local businesses grow through real relationships.
+  </footer>
+</body>
+</html>
